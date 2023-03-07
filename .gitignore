@@ -29,6 +29,7 @@ Thumbs.db
 build/
 target/
 bin/
+sandbox/
 dependency-reduced-pom.xml
 
 # Eclipse Project Files
